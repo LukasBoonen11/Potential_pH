@@ -36,6 +36,7 @@ The Python scripts function as follows:
   The user can modify the input concentrations, and potential/pH ranges as required.
   Additional species and reactions can be added to extend the system of interest.
 
+
 How to Use
 
   To use the scripts for generating Pourbaix diagrams:
@@ -44,7 +45,8 @@ How to Use
   View the Output: The script will output a Pourbaix diagram as a visual plot, which can be saved to a file (e.g., PNG, PDF) or displayed interactively.
   Analyze the Results: The diagram will show the stability regions of different species in the system.
 
-Conclusion
 
+Conclusion
+  
   These scripts offer a powerful tool for visualizing the thermodynamic stability of metal species and their corrosion behavior across various pH and potential conditions.
   By incorporating environmental factors like chloride, sulfate, and bicarbonate ions, the diagrams provide a more realistic representation of the system under investigation, making them highly applicable for studies on corrosion and   electrochemical reactions in diverse environments.
