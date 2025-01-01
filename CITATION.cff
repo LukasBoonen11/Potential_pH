@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+
+message: "If you use this code, please cite it as below."
+
+authors:
+  - name: "Lukas Boonen"
+    orcid: "https://orcid.org/0000-0001-2345-6789"
+title: "Potential_pH"
+version: 1.0
+doi: 10.5281/zenodo.1234567
+date-released: 
+url: 
