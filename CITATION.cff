@@ -1,12 +1,9 @@
 cff-version: 1.2.0
-
-message: "If you use this code, please cite it as below."
-
+message: "If you use this software, please cite it as below."
 authors:
-  - name: "Lukas Boonen"
-  - orcid: "https://orcid.org/0009-0008-0700-9354"
-title: "Potential_pH"
+- family-names: Boonen
+  given-names: Lukas
+orcid: https://orcid.org/0009-0008-0700-9354
+title: Potential-pH
 version: v1.0
-doi: 
 date-released: 2025-01-01
-url: https://github.com/LukasBoonen11/Potential_pH
