@@ -3,7 +3,7 @@ Pourbaix Diagram Construction - Python Scripts
 
 # Overview
 
-The Python scripts contained in this set have been developed for the construction and analysis of Pourbaix diagrams in electrochemical systems. The scripts' primary objective is to visualize the stability regions of different species in the system, a task that is achieved through thermodynamic calculations that involve Gibbs free energy changes. The utilization of these diagrams facilitates the assessment of the potential-pH relationships of metal species as well as different solid and dissolved metal species, and their respective stability, particularly in the presence of various environmental anions, such as chloride, sulfate, and carbonate.
+The Python scripts contained in this set have been developed for the construction and analysis of potential-pH (Pourbaix) diagrams in electrochemical systems. The scripts' primary objective is to visualize the stability regions of different species in the system, a task that is achieved through thermodynamic calculations that involve Gibbs free energy changes. The utilization of these diagrams facilitates the assessment of the potential-pH relationships of metal species, and their respective stability, particularly in the presence of various environmental anions, such as chloride, sulfate, and carbonate.
 
 # Requirements
 
@@ -44,5 +44,5 @@ The Python scripts function as follows:
 
 # Conclusion
   
-  These scripts offer a powerful tool for visualizing the thermodynamic stability of metal species and their corrosion behavior across various pH and potential conditions.
-  By incorporating environmental factors like chloride, sulfate, and bicarbonate ions, the diagrams provide a more realistic representation of the system under investigation, making them highly applicable for studies on corrosion and   electrochemical reactions in diverse environments.
+  These scripts offer a tool for visualizing the thermodynamic stability of metal species and their corrosion behavior across various pH and potential conditions.
+  By incorporating environmental factors like chloride, sulfate, and carbonate ions, the diagrams provide a more realistic representation of the system under investigation, making them applicable for studies on corrosion in diverse environments.
