@@ -228,8 +228,6 @@ dG_Energy_Minimization = np.stack([dG_Reaction_0_Grid, dG_Reaction_1_Grid, dG_Re
 
 dG_Pourbaix_Diagram = np.argmin(dG_Energy_Minimization, axis = 0)
 
-np.savetxt(r'C:\\Users\\lukas.boonen\\OneDrive - Proviron Holding nv\\Desktop\\Research Papers\\Paper 1\\E_pH\\E_pH_Zn_V.csv', dG_Pourbaix_Diagram, delimiter = ';', comments='')
-
 dG_pH_Diff = np.diff(dG_Pourbaix_Diagram, axis = 1)
 
 dG_E_Diff = np.diff(dG_Pourbaix_Diagram, axis = 0)
@@ -338,7 +336,5 @@ def Export_Plot(fig, filename, dpi):
     fig.savefig(f"{filename}.jpg", dpi = dpi)
     fig.savefig(f"{filename}.pdf")
     fig.savefig(f"{filename}.svg")
-
-Export_Plot(fig_Pourbaix_Diagram, r'C:\\Users\\lukas.boonen\\OneDrive - Proviron Holding nv\\Desktop\\Research Papers\\Paper 1\\E_pH\\E_pH_Zn_V', 1200)
 
 plt.show()
