@@ -38,17 +38,11 @@ The Python scripts function as follows:
 
   To use the scripts for generating Pourbaix diagrams:
 
-  Run the Script:
+  Run the Script: Execute the Python script via the command line.
   
-  Execute the Python script via the command line.
+  View the Output: The script will output a Pourbaix diagram as a visual plot, which can be saved to a file (e.g., PNG, PDF) or displayed interactively.
   
-  View the Output:
-  
-  The script will output a Pourbaix diagram as a visual plot, which can be saved to a file (e.g., PNG, PDF) or displayed interactively.
-  
-  Analyze the Results:
-  
-  The diagram will show the stability regions of different species in the system.
+  Analyze the Results: The diagram will show the stability regions of different species in the system.
 
 # Conclusion
   
