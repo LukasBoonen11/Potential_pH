@@ -4,9 +4,9 @@ message: "If you use this code, please cite it as below."
 
 authors:
   - name: "Lukas Boonen"
-    orcid: "https://orcid.org/0009-0008-0700-9354"
+  - orcid: "https://orcid.org/0009-0008-0700-9354"
 title: "Potential_pH"
 version: 1.0
-doi: 10.5281/zenodo.1234567
+doi: 
 date-released: 
-url: 
+url: https://github.com/LukasBoonen11/Potential_pH
